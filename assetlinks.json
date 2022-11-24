@@ -13,9 +13,9 @@
     "relation": ["delegate_permission/common.handle_all_urls","delegate_permission/common.get_login_creds"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.dynadot.search",
+      "package_name": "com.dynadot.android.hd",
       "sha256_cert_fingerprints": [
-        "4A:25:08:BD:DF:35:F0:CA:D5:EF:48:14:2B:EE:57:88:E7:EA:16:3F:D5:62:37:57:0B:62:7C:CB:0A:C3:88:56"
+        "DD:EC:CB:B2:09:EF:69:57:E7:E9:28:78:11:DC:5E:79:A4:D9:0E:16:28:BC:5E:BF:8E:45:4C:BF:A9:8B:E5:AD"
       ]
     }
   }
