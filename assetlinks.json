@@ -16,7 +16,14 @@
   "relation": ["delegate_permission/common.get_login_creds"],
   "target": {
     "namespace": "web",
-    "site": "https://mattaojie.github.io"
+    "site": "https://www.dynadot.cn"
+  }
+},
+   {
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://www.dynadot.com"
   }
 }
 ]
