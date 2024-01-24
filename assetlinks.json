@@ -11,5 +11,19 @@
 "4A:25:08:BD:DF:35:F0:CA:D5:EF:48:14:2B:EE:57:88:E7:EA:16:3F:D5:62:37:57:0B:62:7C:CB:0A:C3:88:56"
 ]
 }
+},
+  {
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://www.dynadot.com"
+  }
+},
+  {
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://www.dynadot.cn"
+  }
 }
 ]
