@@ -13,6 +13,19 @@
 }
 },
   {
+"relation": [
+"delegate_permission/common.handle_all_urls",
+"delegate_permission/common.get_login_creds"
+],
+"target": {
+"namespace": "android_app",
+"package_name": "com.dynadot.android.hd",
+"sha256_cert_fingerprints": [
+"DD:EC:CB:B2:09:EF:69:57:E7:E9:28:78:11:DC:5E:79:A4:D9:0E:16:28:BC:5E:BF:8E:45:4C:BF:A9:8B:E5:AD"
+]
+}
+},
+  {
   "relation": ["delegate_permission/common.get_login_creds"],
   "target": {
     "namespace": "web",
